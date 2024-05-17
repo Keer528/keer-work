@@ -1,7 +1,7 @@
 {
   "name": "personal-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.io/Keer528/keer-work/tree/main/react-portfolio-main/React-Portfolio-Website-master/personal-portfolio",
+  "homepage": "https://keer528.github.io/keer-work/",
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
